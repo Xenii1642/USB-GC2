@@ -12,12 +12,12 @@ Check this Bitbuilt Thread for further informations: [NOT YET, SOON]
 
 
 # PCB
-USB-GC2 PCB is available in the [PCB section] of the repository. 
-Components are all listed in the [BOM file].
+USB-GC2 PCB is available in the [PCB section](https://github.com/Xenii1642/USB-GC2/tree/main/PCB) of the repository. 
+Components are all listed in the [BOM file](https://github.com/Xenii1642/USB-GC2/blob/main/BOM.pdf).
 
 ### Ordering PCB:
 For ordering, you can simply use the Gerber files. Upload it through your favorite manufacturer. 
-I ordered mine, and personnaly suggest [JLCPCB] for that board.
+I ordered mine, and personnaly suggest [JLCPCB](https://jlcpcb.com/) for that board.
 
 For the settings, USB-GC2 doesn't need any. You should however keep the thickness to 1.6mm.
 You can also change the color, it's up to you!
@@ -30,7 +30,7 @@ All the components can be ordered through Digikey or Mouser
 Except for the soldering stuff, you need a compatible USB-C Power Delivery Charger.
 The charger needs to be compatible with 12V or 15V. It should also be able to deliver 2.5A of intensity.
 Here are two USB-C Power Delivery chargers:
-<img src="Images/USB-GC2 Paste.jpg" width="400" />
+<img src="Images/Charger.png" width="550" />
 ### Top charger:
 Its tension is 12V ✅
 Its current is 1.67A ❌
@@ -40,7 +40,7 @@ Its current is 1.67A ❌
 Tension is 12V, but it also has 15V ✅
 Current is 5A for 12V ✅
 Current is 4.33A for 15V ✅
-➡️ This charger is 100% compatible, and you will be able to use it with both input mods!
+➡️ This charger is 100% compatible, and you will be able to use it with both input mods! 😊
 💡 If that's the case, you should use the 12V input instead of 15V. 
 
 
@@ -48,7 +48,7 @@ Current is 4.33A for 15V ✅
 # Assembling:
 ### PCB Assembly:
 USB-GC2 PCB has been designed to be assembled in one time, using a hot plate.
-My suggestion is to first apply solder paste (stencil makes life easier). Then, place the components using the [BOM file]
+My suggestion is to first apply solder paste (stencil makes life easier). Then, place the components using the [BOM file](https://github.com/Xenii1642/USB-GC2/blob/main/BOM.pdf)
 I personally use BI58SN42 solder paste, but all work. Choose the one you're the most confident with 👍
 Once the components are placed, I used my mini hot plate to solder everything.
 It should then look like this:
@@ -63,9 +63,9 @@ Finally, the last step is to solder the USB-C connector. You can use hot air, bu
 
 ### 3D:
 The USB-GC2 only needs one 3D printed cover. It is used to fill the old port and make everything prettier.
-There is two version of that cover. One [with] the logo, and one [without].
+There is two version of that cover. One [with](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB%20Cover%20(with%20logo).stl) the logo, and one [without](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB%20Cover%20(without%20logo).stl).
 Both files are available in STL and STEP, allowing 3D printing / ordering and modifying.
-If you don't have a 3D printer, you can simply order the cover through [JLC3DP]
+If you don't have a 3D printer, you can simply order the cover through [JLC3DP](https://jlc3dp.com/).
 
 The USB-GC2 covers are also available on my Printable account: [NOT YET, SOON]
 
@@ -73,7 +73,7 @@ Once printed, simply place the cover and push it against the USB-C port. Using t
 
 ### GameCube Installation:
 To install the new USB-GC2 in your Nintendo GamCube console, you first need to open it up using the 3.5mm security bit.
-I won't detail the whole dissasembling process here, but you can follow the [iFixit guide].
+I won't detail the whole dissasembling process here, but you can follow the [iFixit guide](https://www.ifixit.com/Guide/Nintendo+GameCube+Fan+replacement+for+cleaning/1405).
 
 Once the original power board is removed, you can just swap the new USB-GC2 module back in.
 Do not forget to plug the cables in the correct orientation.
