@@ -6,5 +6,4 @@ This second revision also integrates securities, which protects the GameCube for
 But most importantly, USB-GC2 is now open-source!
 
 <img src="Images/USB-GC2-Top.jpg" width="800" /> 
-
-<img src="Images/USB-GC2-Bottom.jpg" width="400" />
+<img src="Images/Render1.png" width="400" /><img src="Images/Render2.png" width="400" />
