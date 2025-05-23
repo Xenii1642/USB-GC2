@@ -56,7 +56,7 @@ It should then look like this:
 
 ⚠️ Please take note that the original power connector (J2) and the Power Switch (SW1) should / must be took from an original board. ⚠️
 💡The Step Down converter (U2) is the trickest part to solder. I just apply a really little bit of solder paste, and then apply some flux.
-My recommendation is the SMD291 from ChipQuick.
+My recommendation is the [SMD291](https://www.digikey.com/en/products/detail/chip-quik-inc/SMD291NL/1160000)from ChipQuick.
 
 Finally, the last step is to solder the USB-C connector. You can use hot air, but I decided to use my solder iron with the solder paste + plenty of flux.
 ⚠️ Do not forget to make a good clean of the board to avoid flux / solder paste making shorts between multiples pads. ⚠️
