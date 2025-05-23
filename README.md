@@ -5,7 +5,7 @@ It also contains a switch to select between 12V or 15V input, making it compatib
 This second revision also integrates securities, which protects the GameCube against voltage spikes.
 But most importantly, USB-GC2 is now open-source!
 
-Check this Bitbuilt Thread for further informations: [NOT YET, SOON]
+Check this Bitbuilt Thread for further informations: [BitBuilt Thread](https://bitbuilt.net/forums/index.php?threads/usb-gc2-next-gen-gamecube-power-board.6925/)
 <img src="Images/USB-GC2-Top.jpg" width="800" /> 
 <img src="Images/Render1.png" width="400" /><img src="Images/Render2.png" width="400" />
 <img src="Images/USB-GC2-Bottom.jpg" width="400" /><img src="Images/Cover.jpg" width="400" />
