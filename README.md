@@ -67,7 +67,7 @@ There is two version of that cover. One [with](https://github.com/Xenii1642/USB-
 Both files are available in STL and STEP, allowing 3D printing / ordering and modifying.
 If you don't have a 3D printer, you can simply order the cover through [JLC3DP](https://jlc3dp.com/).
 
-The USB-GC2 covers are also available on my Printable account: [NOT YET, SOON]
+The USB-GC2 covers are also available on my Printable account: [Printables 3D files](https://www.printables.com/model/1306430-usb-gc2)
 
 Once printed, simply place the cover and push it against the USB-C port. Using the friction fit technology, it should stay in without moving.
 
