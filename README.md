@@ -32,12 +32,12 @@ The charger needs to be compatible with 12V or 15V. It should also be able to de
 Here are two USB-C Power Delivery chargers:
 <img src="Images/Charger.png" width="550" />
 ### Top charger:
-Its tension is 12V ✅
+Its voltage is 12V ✅
 Its current is 1.67A ❌
 ➡️ This charger is not compatible 😭
 
 ### Bottom charger:
-Tension is 12V, but it also has 15V ✅
+Voltage is 12V, but it also has 15V ✅
 Current is 5A for 12V ✅
 Current is 4.33A for 15V ✅
 ➡️ This charger is 100% compatible, and you will be able to use it with both input mods! 😊
