@@ -63,8 +63,7 @@ Finally, the last step is to solder the USB-C connector. You can use hot air, bu
 
 ### 3D:
 The USB-GC2 only needs one 3D printed cover. It is used to fill the old port and make everything prettier.
-There is two version of that cover. One [with](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB%20Cover%20(with%20logo).stl) the logo, and one [without](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB%20Cover%20(without%20logo).stl).
-Both files are available in STL and STEP, allowing 3D printing / ordering and modifying.
+There is two version of that cover. One [with](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB-GC-Cover-Logo.step) the logo, and one [without](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB-GC-Cover.step).
 If you don't have a 3D printer, you can simply order the cover through [JLC3DP](https://jlc3dp.com/).
 
 The USB-GC2 covers are also available on my Printable account: [Printables 3D files](https://www.printables.com/model/1306430-usb-gc2)
