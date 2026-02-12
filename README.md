@@ -48,7 +48,7 @@ Current is 4.33A for 15V ✅
 # Assembling:
 ### PCB Assembly:
 USB-GC2 PCB has been designed to be assembled in one time, using a hot plate.
-My suggestion is to first apply solder paste (stencil makes life easier). Then, place the components using the [BOM file](https://github.com/Xenii1642/USB-GC2/blob/main/BOM.pdf)
+My suggestion is to first apply solder paste (stencil makes life easier, you can find PCB jigs [here](https://github.com/Xenii1642/USB-GC2/blob/main/3D/USB-GC-PCB-Jig.step). Then, place the components using the [BOM file](https://github.com/Xenii1642/USB-GC2/blob/main/BOM.pdf)
 I personally use BI58SN42 solder paste, but all work. Choose the one you're the most confident with 👍
 Once the components are placed, I used my mini hot plate to solder everything.
 It should then look like this:
