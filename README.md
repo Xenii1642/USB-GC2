@@ -40,7 +40,7 @@ Its current is 1.67A ❌
 Voltage is 12V, but it also has 15V ✅
 Current is 5A for 12V ✅
 Current is 4.33A for 15V ✅
-➡️ This charger is 100% compatible, and you will be able to use it with both input mods! 😊
+➡️ This charger is 100% compatible, and you will be able to use it with both input modes! 😊
 💡 If that's the case, you should use the 12V input instead of 15V. 
 
 
