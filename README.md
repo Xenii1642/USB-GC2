@@ -83,7 +83,7 @@ Plug it carefully and press the switch. You see the GameCube booting on the scre
 You can now reassemble your GameCube and enjoy hours of gameplay with the same and universal charger!
 <img src="Images/USB-GC2-Working.jpg" width="800" />
 
-License
+# License
 The UBS-GC2 is released under the CERN-OHL-S-2.0 license. This license allows you to:
 - Study
 - Modify
